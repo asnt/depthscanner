@@ -5,6 +5,7 @@ Depth scanner for SoftKinetic DepthSense cameras.
 # Requirements
 
 - C++11
+- Boost.Signals2
 - OpenGL
 - OpenCV
 - SoftKinetic's DepthSenseSDK
