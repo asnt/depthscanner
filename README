@@ -1,0 +1,14 @@
+# depthscanner
+
+Depth scanner for SoftKinetic DepthSense cameras.
+
+# Requirements
+
+- C++11
+- OpenGL
+- OpenCV
+- SoftKinetic's DepthSenseSDK
+
+# Platforms
+
+Tested on Linux.
